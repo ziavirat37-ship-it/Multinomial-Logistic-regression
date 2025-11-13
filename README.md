@@ -1,2 +1,3 @@
 # Multinomial-Logistic-regression
-Multinomial Logistic regression
+In this project we will build a multinomial regression model and then predict. 
+To start the project, we imported the data and all the necessary libraries. In the second step, we isnpected the data. we looked for null and duplicated values and none were found. In third step, we assigned numerical values to the three categorical varibales and then changed it data type.  In fourth step, we assigned x and y values to our dependent and independent variables. In fifth stage, we trained, built our model and then predicted values. In sixth step, we evaluate the model by using R2 and confusion matrix and both showed that the model is a good fit. In last stage, we interpreted the results of the model. 
